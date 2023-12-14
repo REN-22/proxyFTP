@@ -1,4 +1,0 @@
-proxy
-*.o
-*.h.gch
-*cache*
